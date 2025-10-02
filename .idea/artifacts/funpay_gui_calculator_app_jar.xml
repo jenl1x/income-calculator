@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="funpay-gui-calculator-app:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/funpay_gui_calculator_app_jar</output-path>
+    <root id="archive" name="funpay-gui-calculator-app.jar">
+      <element id="module-output" name="funpay-gui-calculator-app" />
+    </root>
+  </artifact>
+</component>
